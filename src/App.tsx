@@ -6,6 +6,7 @@ import Projects from './pages/Projects';
 import About from './pages/About';
 import University from './pages/University';
 import Contact from './pages/Contact';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 /**
  * WELCOME TO YOUR PERSONAL WEBSITE TEMPLATE!
