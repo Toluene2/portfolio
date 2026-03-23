@@ -81,10 +81,10 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="relative"
           >
-            <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl bg-stone-200 relative">
+            <div className="aspect-[1.5/5] rounded-2xl overflow-hidden shadow-2xl bg-stone-200 relative">
               {/* TODO: Replace the src below with your own profile picture URL */}
               <img 
-                src="/adeyeye-portrait.jpg" 
+                src="/Main-Portrait.jpg" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
